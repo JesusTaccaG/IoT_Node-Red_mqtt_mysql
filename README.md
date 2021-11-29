@@ -25,4 +25,32 @@
 #### Añadir la capacidad de publicación de MQTT
 
 - Agregar un mqtt out node y configurar el mqtt broker<br />
-&nbsp;<img src="./Imagenes/3_3.png" width="374">&nbsp;<img src="./Imagenes/3_4.png" width="350">
+&nbsp;<img src="./Imagenes/3_3.png" width="374">&nbsp;<img src="./Imagenes/3_4.png" width="350"><br/>
+&nbsp; Vista del flujo con la capacidad de publicación mqtt<br />
+&nbsp;<img src="./Imagenes/3_5.png" width="420">
+
+### Publicador de mensajes de API REST
+- Configuración de un http input node <br/>
+&nbsp;<img src="./Imagenes/4_1.png" width="350">
+- Configuración de los nodos de creación de mensaje y creación de respuesta <br/>
+&nbsp;<img src="./Imagenes/4_2.png" height="270">&nbsp;<img src="./Imagenes/4_3.png" height="270">
+- Vista del flujo de la API de publicación de mensajes<br/>
+&nbsp;<img src="./Imagenes/4_4.png" height="230">
+### Creación de un Database Listener
+- Configuración del nodo mqtt input<br/>
+&nbsp;<img src="./Imagenes/5_1.png" width="300">
+- Configuración del nodo función para la creación de querys <br/>
+&nbsp;<img src="./Imagenes/5_2.png" width="350">
+- Inclusión y configuración del nodo MySQL usando la base de datos para time-series creado anteriormente.
+&nbsp;<img src="./Imagenes/5_4.png" height="250">&nbsp;<img src="./Imagenes/5_3.png" height="250"> 
+- Vista del flujo con el nodo MySQL y Database Listener<br/>
+&nbsp;<img src="./Imagenes/5_5.png" width="450">
+
+
+### REST API Message Retriever
+- Configuración de los nodos http input<br/>
+&nbsp;<img src="./Imagenes/6_1.png" height="250">&nbsp;<img src="./Imagenes/6_2.png" height="250">
+- Configuración del function node para la creación de querys<br/>
+&nbsp;<img src="./Imagenes/6_3.png" width="350"> 
+- Flujo con la recuperación de mensajes del almacenamiento <br/>
+&nbsp;<img src="./Imagenes/6_4.png" width="450"> 
