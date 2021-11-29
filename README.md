@@ -49,6 +49,8 @@ docker-compose up
 &nbsp;<img src="./Imagenes/4_2.png" height="270">&nbsp;<img src="./Imagenes/4_3.png" height="270">
 - Vista del flujo de la API de publicación de mensajes<br/>
 &nbsp;<img src="./Imagenes/4_4.png" height="230">
+- Debug donde se muestra nuestro timestamp<br/>
+&nbsp;<img src="./Imagenes/4_4.png" height="230">
 ### Creación de un Database Listener
 - Configuración del nodo mqtt input<br/>
 &nbsp;<img src="./Imagenes/5_1.png" width="300">
@@ -58,7 +60,8 @@ docker-compose up
 &nbsp;<img src="./Imagenes/5_4.png" height="250">&nbsp;<img src="./Imagenes/5_3.png" height="250"> 
 - Vista del flujo con el nodo MySQL y Database Listener<br/>
 &nbsp;<img src="./Imagenes/5_5.png" width="450">
-
+- Debug donde se muestra la query creada y nuestro time-series<br/>
+&nbsp;<img src="./Imagenes/5_5.png" width="450">
 
 ### REST API Message Retriever
 - Configuración de los nodos http input<br/>
