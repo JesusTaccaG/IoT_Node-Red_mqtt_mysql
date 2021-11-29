@@ -68,4 +68,4 @@
 &nbsp;<img src="./Imagenes/7_3.png" width="450"> 
 ### Ejecutar Node-RED en segundo plano de forma continua
 - En este caso se usa docker para la ejecución en segundo plano y el despliegue automático. <br/>
-&nbsp;<img src="./Imagenes/8.png" width="450"> 
+&nbsp;<img src="./Imagenes/8.png" width="550"> 
