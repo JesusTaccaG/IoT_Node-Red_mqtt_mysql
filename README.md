@@ -54,3 +54,18 @@
 &nbsp;<img src="./Imagenes/6_3.png" width="350"> 
 - Flujo con la recuperación de mensajes del almacenamiento <br/>
 &nbsp;<img src="./Imagenes/6_4.png" width="450"> 
+
+### Verificar que todo funcione como se esperaba
+- Verificación de la base de datos, <br/>
+&nbsp;<img src="./Imagenes/7_0.png" width="450"> 
+- Verificación del primer flujo <br/>
+&nbsp;<img src="./Imagenes/7_1.png" width="450"> 
+- Verificación del segundo flujo flujo <br/>
+&nbsp;<img src="./Imagenes/7_2.png" width="450"> 
+- Verificación del tercer flujo flujo <br/>
+&nbsp;<img src="./Imagenes/7_3.png" width="450">
+- Verificación del cuarto flujo <br/>
+&nbsp;<img src="./Imagenes/7_3.png" width="450"> 
+### Ejecutar Node-RED en segundo plano de forma continua
+- En este caso se usa docker para la ejecución en segundo plano y el despliegue automático. <br/>
+&nbsp;<img src="./Imagenes/8.png" width="450"> 
