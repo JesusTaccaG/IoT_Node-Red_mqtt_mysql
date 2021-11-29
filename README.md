@@ -1,6 +1,19 @@
 # Build Your Own IoT Platform 
 ## Building the Critical Components
+### Actividad Calificada 
+- Tacca Gutierrez, Jesus
+- Quispe Menor, Hermogenes
+## Herramientas
+- Docker
+- Mosquitto
+- MariaDB - phpMyAdmin
+- Node-RED
 
+## Build
+```bash
+docker-compose up
+```
+- Importar el archivo JSON con el flow Node-RED
 ### Creación de una base de datos principal de series temporales
 
 - Creación de la base de datos en phpMyAdmin<br />
