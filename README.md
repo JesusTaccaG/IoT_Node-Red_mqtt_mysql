@@ -46,7 +46,7 @@ docker-compose up
 - Configuración de un http input node <br/>
 &nbsp;<img src="./Imagenes/4_1.png" width="350">
 - Configuración de los nodos de creación de mensaje y creación de respuesta <br/>
-&nbsp;<img src="./Imagenes/4_2.png" height="270">&nbsp;<img src="./Imagenes/4_3.png" height="270">
+&nbsp;<img src="./Imagenes/4_2.png" height="250">&nbsp;<img src="./Imagenes/4_3.png" height="250">
 - Vista del flujo de la API de publicación de mensajes<br/>
 &nbsp;<img src="./Imagenes/4_4.png" height="230">
 - Debug donde se muestra nuestro timestamp<br/>
